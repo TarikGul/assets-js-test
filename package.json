@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "packageManager": "yarn@3.6.0",
   "dependencies": {
-    "@substrate/asset-transfer-api": "file:../asset-transfer-api"
-  },
-  "packageManager": "yarn@3.6.0"
+    "@substrate/asset-transfer-api": "^0.1.0-beta.3"
+  }
 }
